@@ -22,7 +22,7 @@ const CartItem = ({ onContinueShopping }) => {
 
   const handleCheckoutShopping = (e) => {
     e.preventDefault();
-    alert("Functionality to be added for future reference");
+    alert("Coming Soon!");
   };
 
   const handleContinueShopping = () => {
